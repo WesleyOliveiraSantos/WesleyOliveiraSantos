@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olá! Eu sou Wesley de Oliveira Santos
 
-<!--
-**WesleyOliveiraSantos/WesleyOliveiraSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently studying Análise e desenvolvimento de Sistemas
+- 🏣 Institution Unilavras
+- 🌱 I’m currently learning Flutter
+- 📫 How to reach me: wesleyfad@gmail.com / wesley.tisistemas@gmail.com
+- 😄 Pronouns: ele/dele
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/wesleyOliveiraSantos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesleyOliveiraSantos&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyOliveiraSantos&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+</div>
+  
